@@ -27,17 +27,17 @@ User will select the menu item in menu function and menu function will call an a
 For R1, R2, R10, and R11 you will prompt user for the file name.
 
 The first line of a csv file lists the name of the fields separated with commas,
- ending in a newline. Then the following lines are the information from the fields separated with commas,
- ending in a newline.
+ending in a newline. Then the following lines are the information from the fields separated with commas,
+ending in a newline.
  */
 
 //it will iterate through all the lines in a file and put them in a given vector
 
-/*Notes:
-Phase 2
-R3: You will ask for the required information (Year, Award, Winner, Name, Film),
+* Phase 2
+*       R3 - You will ask for the required information (Year, Award, Winner, Name, Film),
         create a new actors-actress object and add it to the actors-actress vector.
-R4: You will ask for the required information (name, year, nominations, rating, duration,
+        
+        R4 - You will ask for the required information (name, year, nominations, rating, duration,
         genre1, genre2, release, metacritic, synopsis), create a new pictures object
         and add it to the pictures vector.
 */
